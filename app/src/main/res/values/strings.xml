@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Treevia-android</string>
+    <string name="app_name">Treevia</string>
+
+    <string name="login_email">Email</string>
+    <string name="login_password">Senha</string>
+    <string name="login_button_login">ENTRAR</string>
+    <string name="login_email_error">Ingresse um e-mail válido</string>
+    <string name="login_password_error">A senha deve conter entre 4 e 10 caracteres alfanuméricos</string>
+    <string name="login_failed_error">Login Falhou</string>
+    <string name="login_granted">Bem-vindo</string>
 </resources>
